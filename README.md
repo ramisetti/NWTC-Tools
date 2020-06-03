@@ -8,7 +8,7 @@ export FC=gfortran; export F95=gfortran;
 
 make clean
 
-# the below command will generate TurbSim_glin64 in bin directory in TurbSim
+##the below command will generate TurbSim_glin64 in bin directory in TurbSim
 
 make all
 
@@ -20,6 +20,6 @@ export FC=gfortran; export F95=gfortran;
 
 make clean
 
-# the below command will generate IECWind_glin64 in bin directory in IECWind
+##the below command will generate IECWind_glin64 in bin directory in IECWind
 
 make all 
